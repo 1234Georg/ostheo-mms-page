@@ -1,10 +1,10 @@
 # Site settings
-title: Your Site Title
+title: Melanie 123
 email: your-email@domain.com
 description: >-
   A professional agency website built with Jekyll and the Agency theme.
 baseurl: "/ostheo-mms-page"
-url: "https://yourusername.github.io"
+url: "https://1234Georg.github.io"
 
 # Theme
 theme: jekyll-agency
@@ -20,18 +20,7 @@ plugins:
 # Agency theme specific settings
 locale: "en-US"
 
-# Navigation
-nav:
-  - title: "Services"
-    section: services
-  - title: "Portfolio"
-    section: portfolio
-  - title: "About"
-    section: about
-  - title: "Team"
-    section: team
-  - title: "Contact"
-    section: contact
+# Navigation (moved to _data/navigation.yml)
 
 # Portfolio
 collections:
