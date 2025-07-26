@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.0"
-gem "jekyll-agency", "~> 3.0"
+gem "jekyll-agency", "~> 1.2"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
