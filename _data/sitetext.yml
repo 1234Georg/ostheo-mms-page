@@ -28,10 +28,16 @@ en: &DEFAULT_EN
     section: portfolio
 
   about:
-    title: "About"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Über mich"
+    text: "Meine Geschichte"
+    body: "..."
     section: about
+
+  timeline:
+    title: "Title 123"
+    text: "blabla"
+    section: timeline
+    events: [123, 123]
 
   team:
     title: "OUR AMAZING TEAM"
